@@ -12,7 +12,7 @@ body {
 
 /* Navigation */
 nav {
-    background: #2c3e50;
+    background: #1a2c42;
     color: white;
     padding: 1rem 0;
     position: fixed;
@@ -49,12 +49,12 @@ nav {
 }
 
 .nav-links a:hover {
-    color: #3498db;
+    color: #c41e3a;
 }
 
 /* Hero Section */
 #hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #1a2c42 0%, #c41e3a 100%);
     color: white;
     min-height: 100vh;
     display: flex;
@@ -80,7 +80,7 @@ nav {
 .cta-button {
     display: inline-block;
     background: white;
-    color: #667eea;
+    color: #1a2c42;
     padding: 1rem 2rem;
     text-decoration: none;
     border-radius: 50px;
@@ -108,7 +108,7 @@ h2 {
     font-size: 2.5rem;
     margin-bottom: 2rem;
     text-align: center;
-    color: #2c3e50;
+    color: #1a2c42;
 }
 
 /* About Section */
@@ -146,7 +146,7 @@ h2 {
 }
 
 .project-card h3 {
-    color: #667eea;
+    color: #c41e3a;
     margin-bottom: 1rem;
     font-size: 1.5rem;
 }
@@ -157,14 +157,14 @@ h2 {
 }
 
 .project-link {
-    color: #667eea;
+    color: #1a2c42;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 .project-link:hover {
-    color: #764ba2;
+    color: #c41e3a;
 }
 
 /* Contact Section */
@@ -187,7 +187,7 @@ h2 {
 
 .contact-links a {
     display: inline-block;
-    background: #667eea;
+    background: #c41e3a;
     color: white;
     padding: 1rem 2rem;
     text-decoration: none;
@@ -196,13 +196,13 @@ h2 {
 }
 
 .contact-links a:hover {
-    background: #764ba2;
+    background: #1a2c42;
     transform: translateY(-3px);
 }
 
 /* Footer */
 footer {
-    background: #2c3e50;
+    background: #1a2c42;
     color: white;
     text-align: center;
     padding: 2rem;
